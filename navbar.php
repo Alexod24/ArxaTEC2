@@ -29,15 +29,15 @@
               </li>
 
               <li>
-                <a href="#about" class="navbar-link" data-nav-link>About</a>
+                <a href="#about" class="navbar-link" data-nav-link>Sobre Nosotros</a>
               </li>
 
               <li>
-                <a href="#service" class="navbar-link" data-nav-link>Service</a>
+                <a href="#service" class="navbar-link" data-nav-link>Servicios</a>
               </li>
 
               <li>
-                <a href="#property" class="navbar-link" data-nav-link>Property</a>
+                <a href="#property" class="navbar-link" data-nav-link>Propiedades</a>
               </li>
 
               <li>
@@ -45,7 +45,7 @@
               </li>
 
               <li>
-                <a href="#contact" class="navbar-link" data-nav-link>Contact</a>
+                <a href="#contact" class="navbar-link" data-nav-link>Contacto</a>
               </li>
 
             </ul>
@@ -55,23 +55,24 @@
 
         <div class="header-bottom-actions">
 
-          <button class="header-bottom-actions-btn" aria-label="Search">
+          <!-- <button class="header-bottom-actions-btn" aria-label="Search">
             <ion-icon name="search-outline"></ion-icon>
 
             <span>Search</span>
-          </button>
+          </button> -->
 
           <button class="header-bottom-actions-btn" aria-label="Profile">
             <ion-icon name="person-outline"></ion-icon>
 
             <span>Profile</span>
           </button>
+          <button class="header-top-btn">Inicar Sesion</button>
 
-          <button class="header-bottom-actions-btn" aria-label="Cart">
+          <!-- <button class="header-bottom-actions-btn" aria-label="Cart">
             <ion-icon name="cart-outline"></ion-icon>
 
             <span>Cart</span>
-          </button>
+          </button> -->
 
           <button class="header-bottom-actions-btn" data-nav-open-btn aria-label="Open Menu">
             <ion-icon name="menu-outline"></ion-icon>
