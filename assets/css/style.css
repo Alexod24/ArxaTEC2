@@ -264,7 +264,11 @@ button, a { transition: var(--transition); }
   padding-block: 25px;
 }
 
-.header-bottom .logo img { margin-inline: auto; }
+.header-bottom .logo img {
+  margin-inline: auto;
+  width: 150px; /* Ajusta el ancho de la imagen */
+  height: auto;
+  }
 
 .navbar {
   background: var(--white);
@@ -908,7 +912,7 @@ button, a { transition: var(--transition); }
 }
 
 .cta-card {
-  background: var(--orange-soda);
+  background: var(--labase-soda);
   padding: 50px 25px;
   box-shadow: var(--shadow-2);
 }

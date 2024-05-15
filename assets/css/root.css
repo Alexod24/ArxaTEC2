@@ -1,5 +1,9 @@
 :root {
 
+
+     /* Color base */
+     --labase-soda: rgb(236, 154, 2);
+
     --dark-jungle-green: hsl(188, 63%, 7%);
     --prussian-blue: hsl(200, 69%, 14%);
     --raisin-black-1: hsl(227, 29%, 13%);

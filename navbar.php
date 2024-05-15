@@ -2,8 +2,7 @@
       <div class="container">
 
         <a href="#" class="logo">
-          <!-- <img src="./assets/images/logo.png" alt="Homeverse logo"> -->
-          <ion-icon name="business-outline"></ion-icon> ArxaTEC
+          <img src="./assets/images/logarxa1.png" alt="Homeverse logo"> 
         </a>
 
         <nav class="navbar" data-navbar>
